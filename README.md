@@ -1,5 +1,6 @@
 # DS3002-Final-Project
 
+*Please see Documentation file for additional information
 
 My Analysis:
 
